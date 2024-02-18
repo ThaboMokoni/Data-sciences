@@ -1,0 +1,52 @@
+# Question 
+What is the purpose of the ls command?
+# Answer
+It is used to list contents of a new directory or any directory
+# Question 
+What does the command ls / output?
+# Answer
+list information about the current directory
+# Question 
+What does the pwd command do?
+# Answer
+let's you know which directory you are in
+# Question 
+What command would you use to make a new directory?
+# Answer
+to make a new directory, we can use the mkdir command
+# Question
+What command would you use to navigate into a new directory?
+# Answer
+ we use the cd command
+# Question
+What command would you use to navigate ‘upwards’ one level in the directory hierarchy?
+# Answer
+we use ..(two dots) command
+# Question 
+What command would you use to navigate upward two levels?
+# Answer
+we use ..(two dots) command twice i.e. ../..
+# Question 
+What does the command cd home do?
+# Answer
+ To change directories to home directory
+# Question 
+What is a relative path?
+# Answer
+a relative path is a path to a file or directory that is relative to the current directory
+# Question 
+What is an absolute path?
+# Answer
+Absolute paths always start with the root directory and provide the full path to the file or directory
+# Question 
+Explain the usage of the man command?
+# Answer
+it allows accesss to the manual 
+# Question 
+What command would you use to remove the directory git-basic-exercises? Assume that this directory is NOT empty.
+# Answer
+rm command
+# Question 
+Explain the use of tab completion?
+# Answer
+completes the names of files and programs for you i.e. you dont have to type the full name just few first letters and use tab and it will complete the name 
